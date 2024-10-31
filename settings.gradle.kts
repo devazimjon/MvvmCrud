@@ -25,5 +25,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "MvvmCrud"
-include(":app")
+//include(":app")
 include(":image-preview")
