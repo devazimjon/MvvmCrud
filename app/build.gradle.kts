@@ -105,3 +105,4 @@ dependencies {
 //    implementation("com.github.devazimjon:MvvmCrud:1.2")
     implementation(project(":image-preview"))
 }
+
