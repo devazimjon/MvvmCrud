@@ -102,5 +102,5 @@ dependencies {
 //    implementation(libs.logback.classic)
     implementation(libs.kotlinx.serialization)
 
-    implementation("com.github.devazimjon:MvvmCrud:1.0")
+//    implementation("com.github.devazimjon:MvvmCrud:1.0")
 }
