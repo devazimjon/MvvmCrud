@@ -102,5 +102,5 @@ dependencies {
 //    implementation(libs.logback.classic)
     implementation(libs.kotlinx.serialization)
 
-    implementation(project(":image-preview"))
+    implementation("com.github.devazimjon:MvvmCrud:1.0")
 }
